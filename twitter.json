@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "original": {
+        "username" : "farokh",
+        "title": "Farokh"
+      },
+      "fake": null
+    }, 
+    {
+      "original": {
+        "username" : "twobitidiot",
+        "title": "Ryan Selkis"
+      },
+      "fake": ["fakeSelkis1", "fakeSelkis2"]
+    }
+  ]
+}

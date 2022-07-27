@@ -1,0 +1,48 @@
+{
+   "data":[
+      {
+         "scams":[
+            {
+               "url":"https://otherside.mints-link.com",
+               "address":"0x3033db43a108563df4dd7AB4BD10e36a29c21e39",
+               "collection":""
+            },
+            {
+               "url":"https://otlherside.com/",
+               "address":"0x3033db43a108563df4dd7AB4BD10e36a29c21e39",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://otherside.xyz/",
+            "address":"0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258",
+            "collection":"https://opensea.io/collection/otherdeed",
+            "title":"Otherdeed for Otherside"
+         }
+      },
+      {
+         "scams":[
+            {
+               "url":"https://privatefoxes.free-airdrop.live/",
+               "address":"",
+               "collection":""
+            }
+         ],
+         "original":{
+            "url":"https://www.privatefoxes.com/",
+            "address":"",
+            "collection":"",
+            "title":"Private Foxes"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://bohemia.gallery/",
+            "address":"",
+            "collection":"",
+            "title":"Bohemia"
+         }
+      }
+   ]
+}
