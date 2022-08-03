@@ -1437,6 +1437,15 @@
             "collection":"https://opensea.io/collection/koala-intelligence-agency",
             "title":"Koala Intelligence Agency"
          }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://blueshell.io",
+            "address":"", 
+            "collection":"",
+            "title":"BlueShell "
+         }
       }
    ]
 }
