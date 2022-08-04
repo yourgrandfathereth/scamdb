@@ -9,10 +9,10 @@
     }, 
     {
       "original": {
-        "username" : "twobitidiot",
-        "title": "Ryan Selkis"
+        "username" : "doodlesraffle",
+        "title": "doodles"
       },
-      "fake": ["fakeSelkis1", "fakeSelkis2"]
+      "fake": ["doodlesraffle"]
     }
   ]
 }
