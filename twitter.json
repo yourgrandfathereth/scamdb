@@ -2,17 +2,17 @@
   "data": [
     {
       "original": {
-        "username" : "farokh",
-        "title": "Farokh"
+        "username" : "OthersideMeta",
+        "title": "OthersideMeta"
       },
       "fake": null
     }, 
     {
       "original": {
-        "username" : "twobitidiot",
-        "title": "Ryan Selkis"
+        "username" : "doodles",
+        "title": "doodles"
       },
-      "fake": ["fakeSelkis1", "fakeSelkis2"]
+      "fake": ["doodlesraffle"]
     }
   ]
 }
