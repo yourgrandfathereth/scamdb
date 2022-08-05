@@ -141,6 +141,15 @@
          }
       },
       {
+         "scams":null,
+         "original":{
+            "url":"https://www.thedogecapital.com/",
+            "address":"F7AmBcvrcv9BpUZcKri8V2PrPafkYQ3bZHMYjuF1UuXr",
+            "collection":"https://magiceden.io/marketplace/doge_capital",
+            "title":"Doge Capital"
+         }
+      },
+      {
          "scams":[
             {
                "url":"https://thedoodles.claims",
