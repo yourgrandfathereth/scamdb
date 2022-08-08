@@ -21,6 +21,24 @@
          }
       },
       {
+         "scams":null,
+         "original":{
+            "url":"https://metadrop.com/",
+            "address":"",
+            "collection":"",
+            "title":"Metadrop"
+         }
+      },
+      {
+         "scams":null,
+         "original":{
+            "url":"https://webaverse.com/",
+            "address":"0x543D43F390b7d681513045e8a85707438c463d80",
+            "collection":"https://opensea.io/collection/webaverse-genesis-pass",
+            "title":"Webaverse Genesis Drop"
+         }
+      },
+      {
          "scams":[
             {
                "url":"https://privatefoxes.free-airdrop.live/",
